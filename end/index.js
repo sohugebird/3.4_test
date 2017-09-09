@@ -1,6 +1,11 @@
 window.onload = function () { 
     this.bind = function () { 
-        console.log('sddd');
-        alert(1)
-     }
+        console.log('sdd');
+        
+    },
+        this.find = function () {
+        console.log('sdsdf');
+        
+      }    
+    
  }
