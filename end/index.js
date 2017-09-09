@@ -9,6 +9,10 @@ window.onload = function () {
         },
         this.choose = function () { 
         alert('end')
+        },
+        this.push = function () { 
+        console.log('cnm');
+        
      }    
     
  }
